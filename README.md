@@ -30,8 +30,6 @@ Year: 2025
 
 Email: navneet.offl@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/navneet-padmanabhan/
-
 Feel free to check out my repositories and contribute or reach out to me for collaborations!
 
 <!---
