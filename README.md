@@ -7,7 +7,7 @@ I'm am an aspiring Software Developer, student at the National Institute of Tech
 Chat Web App
 I am currently working on an exciting Chat Web App using the MERN stack along with several other technologies:
 
-Frontend: Chakra UI,Backend: Node.js, Express.js,Database: MongoDB,Cache: Redis,Security: bcrypt
+Frontend: Chakra UI | Cache: Redis | Security: bcrypt | Containerization: Docker
 
 🔧 Technologies & Tools
 
