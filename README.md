@@ -22,7 +22,7 @@ Others: Redis, bcrypt, RESTful APIs
 
 📚 Education
 
-Institution: National Institute of Technology (NIT) Trichy
+National Institute of Technology (NIT) Trichy
 Degree: Bachelor's in Electronics and Communication
 Year: 2025
 
